@@ -1,0 +1,5 @@
+name: PickaxeLevel
+main: phuongaz\PickaxeLevel\Loader
+version: 0.0.1
+api: 3.21.0
+
